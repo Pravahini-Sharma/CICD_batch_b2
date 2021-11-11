@@ -10,5 +10,11 @@ package CICD;
  * @author Pravahini sharma
  */
 public class MyClass {
+    public static void main(String[] args)
+    {
+      System.out.println("Hello Jenkins");
+      System.out.println("hello");
+      System.out.println("hello2");
+    }
     
 }
